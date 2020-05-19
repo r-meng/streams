@@ -1,0 +1,4 @@
+
+- React
+- Redux
+- Redux form
